@@ -52,8 +52,8 @@ console.log("String con backticks : " + `Hola Mundo`);
 console.log("Concatenación de strings : " + ("Hola" + " " + "Mundo")); // Hola Mundo
 
 // Operadores uniarios
-console.log(typeof 42);          // "number"
-console.log(typeof 'Hola');
+console.log(typeof 42);     // "number"
+console.log(typeof 'Hola'); // "string"
 
 /* Valores Booleanos
     Los valores booleanos representan dos estados: true (verdadero) y false (falso).
